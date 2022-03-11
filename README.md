@@ -1,7 +1,6 @@
 # Car Price Prediction 
 
-## Purpose: 
-> Predict car price using machine learning techniques
+## Purpose: Predict car price using machine learning techniques
 
 ### Salient points:
 1. Cleaning and Preprocessing data.
